@@ -9,7 +9,7 @@ dependencies, so it can be hosted anywhere that serves files.
 | File            | Purpose                                                                    |
 | --------------- | -------------------------------------------------------------------------- |
 | `index.html`    | Home — hero, the shop's standard, signature services, barbers, gallery, reviews, hours and map |
-| `services.html` | The complete service menu, all 24 services with prices, durations and category filters |
+| `services.html` | The complete service menu, all 23 services with prices, durations and category filters |
 | `shop.html`     | "The Counter" — retail grooming products by category, plus gift cards       |
 | `visit.html`    | Address, hours, parking, amenities, FAQs and contact                        |
 
@@ -48,12 +48,15 @@ directories) and are hard-coded in the HTML:
 
 ### Service menu
 
-All 24 services and prices are taken from the shop's published booking menu:
+All services and prices are taken from the shop's published booking menu:
 haircut and men's haircut $40, skin fade $35, buzz cut $30, kid's haircut $30,
 head shave $30, shaved head $35, line up $25, edge up $10, shape up $20, design
 $10, eyebrow shaping $10, the six beard services at $20 each, hot towel shave $40,
 straight razor shave $35, haircut & beard $50, head shave & beard trim $40, full
 service $60, and hair wash $10.
+
+The booking platform lists "Haircut" and "Men's Haircut" as separate $40 entries;
+the site shows them as one row, so it presents 23 services rather than 24.
 
 The service descriptions were written for this site — they describe standard
 barbering practice rather than being quoted from the shop, so read them through

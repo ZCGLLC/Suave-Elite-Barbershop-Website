@@ -65,7 +65,13 @@
 html {
   -webkit-text-size-adjust: 100%;
   scroll-behavior: smooth;
-  scroll-padding-top: 6rem;
+  /* Clears the fixed header plus the sticky category sub-navigation. */
+  scroll-padding-top: 9rem;
+}
+
+/* Component display rules below would otherwise out-specify the UA default. */
+[hidden] {
+  display: none !important;
 }
 
 body {
@@ -461,6 +467,16 @@ p:last-child {
 
 .btn--block {
   width: 100%;
+}
+
+/* On the narrowest handsets a nowrap label sets an unbreakable min-content
+   width that pushes its whole grid track past the viewport. */
+@media (max-width: 400px) {
+  .btn {
+    padding-inline: 1.35rem;
+    letter-spacing: 0.14em;
+    white-space: normal;
+  }
 }
 
 .btn-row {
@@ -1067,8 +1083,8 @@ body.no-scroll {
 }
 
 .card__icon {
-  width: 2.5rem;
-  height: 2.5rem;
+  width: 2.9rem;
+  height: 2.9rem;
   margin-bottom: 1.5rem;
   color: var(--brass);
 }
@@ -1183,7 +1199,7 @@ body.no-scroll {
 .menu-item__leader {
   position: relative;
   top: -0.28rem;
-  border-bottom: 1px dotted rgba(200, 165, 92, 0.3);
+  border-bottom: 1px dotted rgba(200, 165, 92, 0.45);
   min-width: 1.5rem;
 }
 
@@ -1363,7 +1379,16 @@ body.no-scroll {
 .frame {
   position: relative;
   overflow: hidden;
-  background: linear-gradient(150deg, #171a1f 0%, #0d0f12 100%);
+  background-color: #0d0f12;
+  background-image: repeating-linear-gradient(
+      -45deg,
+      rgba(200, 165, 92, 0.035) 0px,
+      rgba(200, 165, 92, 0.035) 1px,
+      transparent 1px,
+      transparent 9px
+    ),
+    radial-gradient(80% 70% at 50% 35%, rgba(200, 165, 92, 0.08), transparent 70%),
+    linear-gradient(150deg, #171a1f 0%, #0d0f12 100%);
   border: 1px solid var(--hairline-soft);
 }
 
@@ -1411,18 +1436,28 @@ body.no-scroll {
   color: var(--bone-dim);
 }
 
-/* Decorative fallback when no photo is present */
+/* Decorative fallback shown until real photography is dropped in */
 .frame__placeholder {
   position: absolute;
   inset: 0;
   display: grid;
   place-items: center;
-  color: rgba(200, 165, 92, 0.4);
+  color: rgba(200, 165, 92, 0.55);
+}
+
+.frame__placeholder::before {
+  content: "";
+  position: absolute;
+  width: min(58%, 190px);
+  aspect-ratio: 1;
+  border: 1px solid rgba(200, 165, 92, 0.14);
+  transform: rotate(45deg);
 }
 
 .frame__placeholder svg {
-  width: 42%;
-  max-width: 130px;
+  position: relative;
+  width: 34%;
+  max-width: 104px;
   height: auto;
 }
 
@@ -1509,7 +1544,8 @@ body.no-scroll {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  margin-top: 1.75rem;
+  margin-top: auto;
+  padding-top: 1.75rem;
   padding-top: 1.35rem;
   border-top: 1px solid var(--hairline-soft);
   font-size: 0.7rem;
@@ -2087,10 +2123,10 @@ body.no-scroll {
   color: var(--brass);
 }
 
-/* Sticky in-page nav */
+/* Sticky in-page nav — offset clears the fixed header exactly */
 .subnav {
   position: sticky;
-  top: 4.9rem;
+  top: 5.5rem;
   z-index: 500;
   background: rgba(11, 12, 14, 0.9);
   backdrop-filter: blur(12px);
@@ -2123,6 +2159,19 @@ body.no-scroll {
 .subnav a:hover,
 .subnav a.is-active {
   color: var(--brass);
+}
+
+/* Sidebar that pins alongside a long column, but only where it fits between
+   the sticky chrome and the bottom of the viewport. */
+.sticky-aside {
+  position: static;
+}
+
+@media (min-width: 980px) and (min-height: 1000px) {
+  .sticky-aside {
+    position: sticky;
+    top: 9.5rem;
+  }
 }
 
 /* --------------------------------------------------------------------------
