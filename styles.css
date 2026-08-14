@@ -354,6 +354,8 @@ footer > p { margin: 20px 0 40px; color: rgba(255,255,255,.48); font-family: var
   .editorial-note { padding: 70px 0; }
   .section-head { align-items: start; flex-direction: column; }
   .service-tabs { margin-top: 45px; }
+  .service-tabs { flex-wrap: wrap; overflow-x: visible; }
+  .service-tab { padding: 10px 13px; font-size: 9px; }
   .service-row { grid-template-columns: 36px 1fr auto; gap: 10px; min-height: 118px; }
   .service-name h3 { font-size: 25px; }
   .service-name p { max-width: 220px; }
