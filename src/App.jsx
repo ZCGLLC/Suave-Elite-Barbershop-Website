@@ -202,7 +202,7 @@ function App() {
               Suave Elite
               <span>Barbershop</span>
             </h1>
-            <p className="hero-headline">Precision grooming for the discerning gentleman.</p>
+            <p className="hero-headline">Precision Grooming For The Discerning Gentleman.</p>
             <p className="hero-copy">
               Old East Dallas&apos; destination for sharp fades, classic cuts, and traditional
               shaves — crafted by a skilled team in a refined, welcoming shop.
@@ -237,7 +237,7 @@ function App() {
             <div className="experience-copy">
               <p className="section-label reveal">The Experience</p>
               <h2 className="section-title reveal reveal-delay-1">
-                Modern craft. Timeless standards.
+                Modern Craft. Timeless Standards.
               </h2>
               <p className="reveal reveal-delay-2">
                 Suave Elite Barbershop is a Latino-owned grooming house on Ross Avenue, built for
@@ -254,21 +254,21 @@ function App() {
                 <li className="reveal">
                   <span className="point-num">01</span>
                   <div className="point-text">
-                    <strong>Technical precision</strong>
+                    <strong>Technical Precision</strong>
                     <span>Fades, line-ups, and beard work executed with consistency and care.</span>
                   </div>
                 </li>
                 <li className="reveal reveal-delay-1">
                   <span className="point-num">02</span>
                   <div className="point-text">
-                    <strong>Refined atmosphere</strong>
+                    <strong>Refined Atmosphere</strong>
                     <span>A clean, modern shop with a calm energy suited to high-end clients.</span>
                   </div>
                 </li>
                 <li className="reveal reveal-delay-2">
                   <span className="point-num">03</span>
                   <div className="point-text">
-                    <strong>Trusted team</strong>
+                    <strong>Trusted Team</strong>
                     <span>
                       Skilled barbers known for listening first — then delivering exactly what you
                       asked for.
@@ -284,7 +284,7 @@ function App() {
           <div className="container">
             <div className="section-head">
               <p className="section-label reveal">Services & Pricing</p>
-              <h2 className="section-title reveal reveal-delay-1">The full menu.</h2>
+              <h2 className="section-title reveal reveal-delay-1">The Full Menu.</h2>
               <p className="section-lead reveal reveal-delay-2">
                 Every service we offer — from signature full grooming to quick edge-ups — priced for
                 transparent, premium care.
@@ -338,7 +338,7 @@ function App() {
           <div className="container">
             <div className="section-head">
               <p className="section-label reveal">Client Praise</p>
-              <h2 className="section-title reveal reveal-delay-1">Rated 4.7+ on Google.</h2>
+              <h2 className="section-title reveal reveal-delay-1">Rated 4.7+ On Google.</h2>
               <p className="section-lead reveal reveal-delay-2">
                 A locally favored shop with a strong following for craftsmanship, punctuality, and a
                 welcoming atmosphere.
@@ -449,9 +449,9 @@ function App() {
         <section className="cta-band">
           <div className="container">
             <p className="section-label" style={{ color: 'var(--brass)' }}>
-              Ready when you are
+              Ready When You Are
             </p>
-            <h2 className="section-title">Elevate your look at Suave Elite.</h2>
+            <h2 className="section-title">Elevate Your Look At Suave Elite.</h2>
             <p className="section-lead">
               Appointments recommended. Walk-ins welcomed. Come experience the best fades in town.
             </p>
