@@ -2,10 +2,10 @@ import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
-export default defineConfig({
+export default defineConfig(({ mode }) => ({
   plugins: [react()],
-  // Relative base so the site works on GitHub Pages project URLs and local preview
-  base: './',
+  // GitHub Pages project site path in production; root locally
+  base: mode === 'production' ? '/Suave-Elite-Barbershop-Website/' : '/',
   preview: {
     host: true,
     allowedHosts: true,
@@ -14,4 +14,4 @@ export default defineConfig({
     host: true,
     allowedHosts: true,
   },
-})
+}))

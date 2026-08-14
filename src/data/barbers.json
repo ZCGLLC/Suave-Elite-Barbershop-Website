@@ -1,0 +1,906 @@
+[
+  {
+    "id": "611673",
+    "name": "Michael Angelo (Miguel)",
+    "booksyUrl": "https://booksy.com/en-us/611673_michael-angelo-barber-miguel_barber-shop_134786_dallas",
+    "photo": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/611673/logo/55d32044d9e34a708b4f0e691bdc81-michael-angelo-barber-miguel-logo-d099de5a97684f1985f7e6a0b4ac8d-booksy.jpeg",
+    "rating": 4.9,
+    "reviewsCount": 74,
+    "services": [
+      {
+        "name": "VIP",
+        "description": "💎 VIP HAIRCUT & BEARD 💎\n\nExperience the full VIP treatment! 👑 Includes a detailed haircut ✂️ customized to your style, precision beard trim & lineup 🧔‍♂️, clean razor finish 🪒, relaxing hot towel treatment 🔥🧖‍♂️, and premium enhancements ✨ for a sharper, fuller look.\n\nFinished with professional styling 💈 to have you leaving the chair fresh, sharp & confident. 😎🔥",
+        "durationMin": 60,
+        "price": "$60.00",
+        "promoPrice": "$54.00",
+        "deposit": 0
+      },
+      {
+        "name": "Back 2 School 🏫 ✏️",
+        "description": null,
+        "durationMin": 25,
+        "price": "$25.00",
+        "promoPrice": "$22.50",
+        "deposit": 0
+      },
+      {
+        "name": "New Appointments Only! Haircut & Beard",
+        "description": "Here’s a shorter version focused on the haircut and beard:\n\n💈 NEW CLIENT SPECIAL — $40\n\nFirst-time appointments only.\n\n✂️ Full Haircut\n🧔 Beard Trim & Lineup\n🪒 Clean Razor Finish\n🔥 Hot Towel Treatment\n✨ Finished with styling for a clean, fresh look\n\n$40 for your first appointment only.",
+        "durationMin": 40,
+        "price": "$40.00+",
+        "promoPrice": "$36.00+",
+        "deposit": 0
+      },
+      {
+        "name": "$5 Off Haircut With Review New Appointments Only!",
+        "description": "💈 Clean Cut. Razor Finish. 💈\n\nNothing beats a fresh, clean haircut finished with a razor-sharp lineup. Walk out looking your best with precision fades, crisp edges, and attention to every detail.\n\n⭐ Leave a 5-star review after your visit and receive $5 OFF your next appointment! ⭐\n\nYour support helps my business grow, and it’s my way of saying thank you for trusting me with your haircut.\n\n📅 Book your next appointment today and stay fresh at Suave Elite Barbershop.",
+        "durationMin": 30,
+        "price": "$35.00",
+        "promoPrice": "$31.50",
+        "deposit": 0
+      },
+      {
+        "name": "Basic Haircut (Repeating Clients)",
+        "description": "Basic Haircut\n\nA clean, detailed haircut customized to your preferred style. Includes a fade or taper, sharp lineup, clean razor finish, and styling to complete the look.\n\nBeard service not included.",
+        "durationMin": 40,
+        "price": "$40.00",
+        "promoPrice": "$36.00",
+        "deposit": 0
+      },
+      {
+        "name": "Basic Haircut And Beard",
+        "description": "✂️ BASIC HAIRCUT & BEARD 🧔‍♂️\n\nKeep it clean and simple! 💈 Includes a detailed haircut ✂️ customized to your style, beard trim & lineup 🧔‍♂️, clean razor finish 🪒, and professional styling for a fresh, sharp look. 😎🔥\n\nNo enhancements included. 🚫✨",
+        "durationMin": 40,
+        "price": "$50.00",
+        "promoPrice": "$45.00",
+        "deposit": 0
+      },
+      {
+        "name": "Hair Line Up",
+        "description": "Line up only.",
+        "durationMin": 15,
+        "price": "$30.00+",
+        "promoPrice": "$27.00+",
+        "deposit": 0
+      },
+      {
+        "name": "Basic Women’S Haircut",
+        "description": null,
+        "durationMin": 25,
+        "price": "$25.00+",
+        "promoPrice": "$22.50+",
+        "deposit": 0
+      },
+      {
+        "name": "Hair & Beard Line Up",
+        "description": null,
+        "durationMin": 15,
+        "price": "$30.00+",
+        "promoPrice": "$27.00+",
+        "deposit": 0
+      },
+      {
+        "name": "Haircut Maintenance",
+        "description": "Haircut must be with in 3-4 days and only for returning customers. Not for first timers.",
+        "durationMin": 30,
+        "price": "$30.00+",
+        "promoPrice": "$27.00+",
+        "deposit": 0
+      },
+      {
+        "name": "Beard Maintenance",
+        "description": "Must be within 3-4 days and only for returning customers only. Not for new clients.",
+        "durationMin": 25,
+        "price": "$30.00+",
+        "promoPrice": "$27.00+",
+        "deposit": 0
+      },
+      {
+        "name": "Hot Towel Fulls Shave",
+        "description": null,
+        "durationMin": 45,
+        "price": "$40.00+",
+        "promoPrice": "$36.00+",
+        "deposit": 0
+      },
+      {
+        "name": "Hair&Beard Washed W/ Hot Towel",
+        "description": null,
+        "durationMin": 30,
+        "price": "$30.00",
+        "promoPrice": "$27.00",
+        "deposit": 0
+      },
+      {
+        "name": "Women’S Haircut With Designs",
+        "description": "💇‍♀️ WOMEN’S HAIRCUT + DESIGN ✨\n\nA customized women’s haircut with a creative design to match your style. ✂️ Includes a clean cut, precision lineup, and detailed freestyle or custom design. 🎨🔥\n\nPerfect for anyone looking for a fresh, bold & unique look! 💈✨",
+        "durationMin": 30,
+        "price": "$35.00",
+        "promoPrice": "$31.50",
+        "deposit": 0
+      }
+    ]
+  },
+  {
+    "id": "1480891",
+    "name": "Bryan Mess Cutz",
+    "booksyUrl": "https://booksy.com/en-us/1480891_bryanmess-cutz_barber-shop_134786_dallas",
+    "photo": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/1480891/logo/937ecfcf3d1d436c9345e87ed63c5d-bryanmess-cutz-logo-670bb50f7fb84a158885f3b319bca9-booksy.jpeg",
+    "rating": 5.0,
+    "reviewsCount": 228,
+    "services": [
+      {
+        "name": "Haircut 💎💈",
+        "description": "💈 REGULAR HAIRCUT ✂️ •\n✂️ EYEBROWS CLEANING 💈 •",
+        "durationMin": 35,
+        "price": "$45.00+",
+        "promoPrice": "$38.25+",
+        "deposit": 0
+      },
+      {
+        "name": "💈 Haircut 💇🏻‍♂️ + Beard 🧔🏻‍♂️ 💈",
+        "description": "💈 HAICUT AND BEARD TRIM ✂️\n✂️ HOT TOWEL (OPCIONAL) 🧖🏻‍♂️ 💈\n💈 EYEBROWS CLEANING ✂️\n✂️ COLOR (OPCIONAL) 💈",
+        "durationMin": 40,
+        "price": "$55.00+",
+        "promoPrice": "$46.75+",
+        "deposit": 0
+      },
+      {
+        "name": "💈KID Haircut 👦🏻💈",
+        "description": "✂️ ONLY KIDS WITH 7 YEARS OLD OLDER 💈",
+        "durationMin": 30,
+        "price": "$40.00+",
+        "promoPrice": "$34.00+",
+        "deposit": 0
+      },
+      {
+        "name": "✂️Beard Shaping 🧔🏻‍♂️💈",
+        "description": "✂️ BEARD SHAPING 🧔🏻‍♂️\n✂️ INCLUDE HOT TOWEL💈\n💈 INCLUDE LINE up IN YOUR HAIRCUT 💇🏻‍♂️",
+        "durationMin": 20,
+        "price": "$35.00+",
+        "promoPrice": "$29.75+",
+        "deposit": 0
+      },
+      {
+        "name": "💈Design OR Freestyle 💇🏻‍♂️🔥💎",
+        "description": "✂️ DESIGN MADE WITH TRIMMER, RAZOR BLADE & DYEING (BIGEN) ✂️💈",
+        "durationMin": 40,
+        "price": "$50.00+",
+        "promoPrice": "$42.50+",
+        "deposit": 0
+      },
+      {
+        "name": "TOP TIER 💎",
+        "description": "💈HAIRCUT & BEARDTRIM (INCLUDED BALSAMIC OIL) 🔥\n\nFACIAL EXFOLIANT💎\n\nMASSAGES ( FACE,SHOULDS) ✅✅\n\nHAIR WASHING | 🫧",
+        "durationMin": 60,
+        "price": "$85.00+",
+        "promoPrice": "$72.25+",
+        "deposit": 0
+      },
+      {
+        "name": "FULL House 📞💈",
+        "description": null,
+        "durationMin": 120,
+        "price": "$150.00+",
+        "promoPrice": "$127.50+",
+        "deposit": 0
+      }
+    ]
+  },
+  {
+    "id": "954973",
+    "name": "Trueblendz",
+    "booksyUrl": "https://booksy.com/en-us/954973_trueblendz_barber-shop_134786_dallas",
+    "photo": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/954973/logo/ef74d27910c447efb194df04fd460f-trueblendz-logo-35370116772c4929b0324be9332195-booksy.jpeg",
+    "rating": 5.0,
+    "reviewsCount": 157,
+    "services": [
+      {
+        "name": "Head Shave And Face",
+        "description": null,
+        "durationMin": 45,
+        "price": "$40.00+",
+        "promoPrice": "$35.20+",
+        "deposit": 0
+      },
+      {
+        "name": "Beard Trim",
+        "description": null,
+        "durationMin": 30,
+        "price": "$25.00+",
+        "promoPrice": "$22.00+",
+        "deposit": 0
+      },
+      {
+        "name": "Haircut 💈5 Dollars Off For Your Review!!💈",
+        "description": "•Enhancements included if wanted",
+        "durationMin": 45,
+        "price": "$40.00+",
+        "promoPrice": "$35.20+",
+        "deposit": 0
+      },
+      {
+        "name": "Haircut-Beard💈5 Dollars Off For Your Review!💈",
+        "description": "•Enhancements included if wanted",
+        "durationMin": 60,
+        "price": "$50.00+",
+        "promoPrice": "$44.00+",
+        "deposit": 0
+      },
+      {
+        "name": "Lineup",
+        "description": null,
+        "durationMin": 25,
+        "price": "$20.00+",
+        "promoPrice": "$17.60+",
+        "deposit": 0
+      },
+      {
+        "name": "Kids Cuts• 6-13 Yrs Only",
+        "description": "With a 10 dollars more I’ll add a wash if needed by the parent!",
+        "durationMin": 45,
+        "price": "$30.00+",
+        "promoPrice": "$26.40+",
+        "deposit": 0
+      },
+      {
+        "name": "Shampoo Wash",
+        "description": null,
+        "durationMin": 15,
+        "price": "$10.00",
+        "promoPrice": "$8.80",
+        "deposit": 0
+      },
+      {
+        "name": "Thetrueblendzpack•Haircut•Beard Trim•Shampoo Wash",
+        "description": "•Enhancements included if wanted",
+        "durationMin": 75,
+        "price": "$60.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Haircut•Shampoo",
+        "description": null,
+        "durationMin": 60,
+        "price": "$50.00",
+        "promoPrice": null,
+        "deposit": 0
+      }
+    ]
+  },
+  {
+    "id": "1379513",
+    "name": "JC Cuts Studio",
+    "booksyUrl": "https://booksy.com/en-us/1379513_jc-cuts-studio_barber-shop_134786_dallas",
+    "photo": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/1379513/logo/aa1c37ac2a1141bfb5f009901b31db-jc-cuts-logo-6f3b876de1964f9e86e6f0407cefcd-booksy.jpeg",
+    "rating": 5.0,
+    "reviewsCount": 342,
+    "services": [
+      {
+        "name": "✂️💈Haircut💈✂️",
+        "description": "‼️Leave me a good review and get $5 off‼️",
+        "durationMin": 35,
+        "price": "$45.00+",
+        "promoPrice": "$40.05+",
+        "deposit": 0
+      },
+      {
+        "name": "💈✂️Haircut & Beard✂️💈",
+        "description": "‼️Leave me a good review and get $5 off‼️",
+        "durationMin": 50,
+        "price": "$60.00+",
+        "promoPrice": "$53.40+",
+        "deposit": 0
+      },
+      {
+        "name": "💈✂️Kids Cut✂️💈",
+        "description": "‼️‼️‼️Unger 12 years old⬇️⬇️‼️Leave me a good review and get $5 off‼️",
+        "durationMin": 30,
+        "price": "$35.00+",
+        "promoPrice": "$31.15+",
+        "deposit": 0
+      },
+      {
+        "name": "💈🪒Beard 🪒💈",
+        "description": "‼️Leave me a good review and get $5 off‼️   💈Includes hot towel💈",
+        "durationMin": 25,
+        "price": "$25.00+",
+        "promoPrice": "$22.25+",
+        "deposit": 0
+      },
+      {
+        "name": "💈 Edge Up + Enhancements 💈",
+        "description": null,
+        "durationMin": 20,
+        "price": "$25.00+",
+        "promoPrice": "$22.25+",
+        "deposit": 0
+      },
+      {
+        "name": "💈JC Cuts Urban Luxe💈👑",
+        "description": "JC Cutz Urban Luxe VIP Service\n\nEnjoy a complete grooming experience with our VIP service. It includes:\n\t•\tHaircut: A personalized style tailored to your preferences and needs.\n\t•\tBlack Paint Enhancements: Application of black paint for a flawless finish.\n\t•\tBeard Grooming: Shape and maintain your beard with precision for a refreshed look.\n\t•\tHot Towel: Relax with a hot towel that softens and preps your skin.\n\t•\tEye Massage: Enjoy a soothing eye massage to relieve tension.\n\t•\tMoisturizing Cream: We finish with a hydrating cream that leaves your skin soft and rejuvenated.",
+        "durationMin": 75,
+        "price": "$100.00+",
+        "promoPrice": null,
+        "deposit": 0
+      }
+    ]
+  },
+  {
+    "id": "1429427",
+    "name": "AB Cutzz",
+    "booksyUrl": "https://booksy.com/en-us/1429427_abcutzz_barber-shop_134786_dallas",
+    "photo": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/1429427/logo/174ba7bab99546ac80c69b53adfcf8-abcutzz-logo-5f42949d908f44b883257587a7fbf3-booksy.jpeg",
+    "rating": 5,
+    "reviewsCount": 113,
+    "services": [
+      {
+        "name": "💈✂️Scissors Cut✂️💈10% From Monday To Thursday",
+        "description": "💈✂️Haircut Just With scissors ✂️💈\n💈Include Eyebrows(Opcional)💈\nThe all Services Include drink(water or beer)",
+        "durationMin": 45,
+        "price": "$55.00",
+        "promoPrice": "$49.50",
+        "deposit": 0
+      },
+      {
+        "name": "💈 Haircut💈10%Off From Monday To Thursday",
+        "description": "💈Regular Haircut💈\n💈 Include eyebrows (opcional)💈\n💈Include a simple design💈",
+        "durationMin": 40,
+        "price": "$45.00",
+        "promoPrice": "$40.50",
+        "deposit": 0
+      },
+      {
+        "name": "💈 Haircut + Beard💈10% Off From Monday To Thursday",
+        "description": "💈Haircut and Beard Trim with hot towel🧔‍♂️💈\n💈Include Eyebrows (Opcional) 💈\n💈Include Color Enhancement 💈\n💈Include Massage Machine💈\n💈Include a simple Design(Opcional)💈\nThe all Services Include drink(water or beer)",
+        "durationMin": 50,
+        "price": "$60.00",
+        "promoPrice": "$54.00",
+        "deposit": 0
+      },
+      {
+        "name": "💈 Presidential 💈",
+        "description": "💈Haircut + Beard with Hot Towel 💈\n💈Include Eyebrows and Color Enhancement💈\n💈Include Hair Wash + Hair Styling💈\n💈Include Facial Clean(Black Mask + Exfoliating Cream💈\n💈Include Massage Machine + Eye Massage Machine 💈\nThe all Services Include drink(water or beer)",
+        "durationMin": 60,
+        "price": "$100.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "💈Beard Shaping💈",
+        "description": "💈Beard Shaping🧔‍♂️💈\n💈Include Hot Towel💈\n💈Include Lineup in your Haircut💈\n💈Include Eyebrows(opcional)💈\n💈Include Massage Machine💈\nThe all Services Include drink(water or beer)",
+        "durationMin": 40,
+        "price": "$45.00",
+        "promoPrice": "$40.50",
+        "deposit": 0
+      },
+      {
+        "name": "💈Kid Haircut💈",
+        "description": "💈Only kids with 6 years old or Older💈",
+        "durationMin": 35,
+        "price": "$40.00",
+        "promoPrice": "$36.00",
+        "deposit": 0
+      },
+      {
+        "name": "💈Head Shave💈",
+        "description": "💈Head Shave With Blade💈\n💈Include Hot Towel💈\n💈Include Massage Machine💈\n💈Include Eyebrows(Opcional)💈",
+        "durationMin": 30,
+        "price": "$40.00",
+        "promoPrice": "$36.00",
+        "deposit": 0
+      },
+      {
+        "name": "💈House Calls💈",
+        "description": null,
+        "durationMin": 105,
+        "price": "$150.00+",
+        "promoPrice": null,
+        "deposit": 0
+      }
+    ]
+  },
+  {
+    "id": "1512855",
+    "name": "Andy Oru",
+    "booksyUrl": "https://booksy.com/en-us/1512855_andyoru-barber-shop_barber-shop_134786_dallas",
+    "photo": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/1512855/logo/415ce961ee634049bbe397177e4aa8-andyoru-barber-shop-logo-e357416c2358408b9189b51632f584-booksy.jpeg",
+    "rating": 4.8,
+    "reviewsCount": 70,
+    "services": [
+      {
+        "name": "Haircut",
+        "description": null,
+        "durationMin": 30,
+        "price": "$40.00+",
+        "promoPrice": "$34.80+",
+        "deposit": 0
+      },
+      {
+        "name": "Beard",
+        "description": null,
+        "durationMin": 15,
+        "price": "$25.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Haircut & Beard",
+        "description": null,
+        "durationMin": 45,
+        "price": "$60.00+",
+        "promoPrice": "$52.20+",
+        "deposit": 0
+      },
+      {
+        "name": "Kid'S Haircut",
+        "description": null,
+        "durationMin": 30,
+        "price": "$30.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Shaping",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00+",
+        "promoPrice": "$17.40+",
+        "deposit": 0
+      },
+      {
+        "name": "Line Up",
+        "description": null,
+        "durationMin": 15,
+        "price": "$15.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Head Shave",
+        "description": null,
+        "durationMin": 30,
+        "price": "$30.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Men'S Haircut",
+        "description": null,
+        "durationMin": 30,
+        "price": "$40.00+",
+        "promoPrice": "$34.80+",
+        "deposit": 0
+      },
+      {
+        "name": "Eyebrow Shaping",
+        "description": null,
+        "durationMin": 10,
+        "price": "$10.00+",
+        "promoPrice": "$8.70+",
+        "deposit": 0
+      },
+      {
+        "name": "Edge Up",
+        "description": null,
+        "durationMin": 15,
+        "price": "$10.00+",
+        "promoPrice": "$8.70+",
+        "deposit": 0
+      },
+      {
+        "name": "Design",
+        "description": null,
+        "durationMin": 30,
+        "price": "$10.00+",
+        "promoPrice": "$8.70+",
+        "deposit": 0
+      },
+      {
+        "name": "Skin Fade",
+        "description": null,
+        "durationMin": 30,
+        "price": "$40.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Trim",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Buzz Cut",
+        "description": null,
+        "durationMin": 30,
+        "price": "$30.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Shave",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Head Shave & Beard Trim",
+        "description": null,
+        "durationMin": 45,
+        "price": "$40.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Full Service",
+        "description": null,
+        "durationMin": 60,
+        "price": "$80.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Hot Towel Shave",
+        "description": null,
+        "durationMin": 30,
+        "price": "$25.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Straight Razor Shave",
+        "description": null,
+        "durationMin": 30,
+        "price": "$35.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Maintenance",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Grooming",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Hair Wash",
+        "description": null,
+        "durationMin": 10,
+        "price": "$10.00+",
+        "promoPrice": "$8.70+",
+        "deposit": 0
+      },
+      {
+        "name": "Shape Up",
+        "description": null,
+        "durationMin": 30,
+        "price": "$20.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Shaved Head",
+        "description": null,
+        "durationMin": 30,
+        "price": "$30.00+",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Facial",
+        "description": null,
+        "durationMin": 30,
+        "price": "$30.00+",
+        "promoPrice": null,
+        "deposit": 0
+      }
+    ]
+  },
+  {
+    "id": "1808602",
+    "name": "Jackie James",
+    "booksyUrl": "https://booksy.com/en-us/1808602_jackie-james_barber-shop_134786_dallas",
+    "photo": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/1808602/biz_photo/95d038e22e154b6d8c1bd7db2e367c-sauve-elite-barbershop-biz-photo-644e4a25467e4e7db4ba556c2b51f8-booksy.jpeg",
+    "rating": 5,
+    "reviewsCount": 6,
+    "services": [
+      {
+        "name": "Haircut",
+        "description": null,
+        "durationMin": 30,
+        "price": "$40.00",
+        "promoPrice": null,
+        "deposit": 15
+      },
+      {
+        "name": "Beard",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Haircut & Beard",
+        "description": null,
+        "durationMin": 45,
+        "price": "$50.00",
+        "promoPrice": null,
+        "deposit": 15
+      },
+      {
+        "name": "Kid'S Haircut",
+        "description": null,
+        "durationMin": 30,
+        "price": "$30.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Shaping",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Line Up",
+        "description": null,
+        "durationMin": 20,
+        "price": "$25.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Head Shave",
+        "description": null,
+        "durationMin": 30,
+        "price": "$30.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Men'S Haircut",
+        "description": null,
+        "durationMin": 30,
+        "price": "$40.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Eyebrow Shaping",
+        "description": null,
+        "durationMin": 10,
+        "price": "$10.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Edge Up",
+        "description": null,
+        "durationMin": 15,
+        "price": "$10.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Design",
+        "description": null,
+        "durationMin": 30,
+        "price": "$10.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Skin Fade",
+        "description": null,
+        "durationMin": 30,
+        "price": "$35.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Trim",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Buzz Cut",
+        "description": null,
+        "durationMin": 30,
+        "price": "$30.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Shave",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Head Shave & Beard Trim",
+        "description": null,
+        "durationMin": 45,
+        "price": "$40.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Full Service",
+        "description": null,
+        "durationMin": 60,
+        "price": "$60.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Hot Towel Shave",
+        "description": null,
+        "durationMin": 30,
+        "price": "$40.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Grooming",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Hair Wash",
+        "description": null,
+        "durationMin": 10,
+        "price": "$10.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Shape Up",
+        "description": null,
+        "durationMin": 30,
+        "price": "$20.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Straight Razor Shave",
+        "description": null,
+        "durationMin": 30,
+        "price": "$35.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Maintenance",
+        "description": null,
+        "durationMin": 15,
+        "price": "$20.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Shaved Head",
+        "description": null,
+        "durationMin": 30,
+        "price": "$35.00",
+        "promoPrice": null,
+        "deposit": 0
+      }
+    ]
+  },
+  {
+    "id": "1354808",
+    "name": "Jhon Cuts",
+    "booksyUrl": "https://booksy.com/en-us/1354808_jhon-cuts_barber-shop_134786_dallas",
+    "photo": "https://d2zdpiztbgorvt.cloudfront.net/region1/us/1354808/logo/95d716fcf5e04d8a87aa74dd40e76f-jhon-cutz-logo-fd58729addb64a60884b623a003042-booksy.jpeg",
+    "rating": 5.0,
+    "reviewsCount": 310,
+    "services": [
+      {
+        "name": "Haircut 💈💈🔥!!️ 10% Off From Monday To Thursday!!️",
+        "description": "I handle any type of hair and style professionally I will take care of raising your image With excellent service\n$20 fee for cancellations\n10% off does not apply Friday, Saturdays or Sundays",
+        "durationMin": 35,
+        "price": "$50.00",
+        "promoPrice": "$45.00",
+        "deposit": 0
+      },
+      {
+        "name": "💈🔥!!Haircut And Beard &Beard 💇‍♂️💈!!",
+        "description": "This service includes your haircut and beard shaping with products that make us get the best result for you\n$20 feefor cancellations\n\n10% off does not apply Friday, Saturdays or Sundays",
+        "durationMin": 50,
+        "price": "$65.00",
+        "promoPrice": "$58.50",
+        "deposit": 0
+      },
+      {
+        "name": "💈✂️Kids Cuts 👦 🔥!!️ !",
+        "description": "10% off does not apply Friday, Saturdays or Sunday",
+        "durationMin": 35,
+        "price": "$40.00",
+        "promoPrice": "$36.00",
+        "deposit": 0
+      },
+      {
+        "name": "Line Up💈",
+        "description": "10% off does not apply Friday, Saturdays or Sundays\n$20 fee for cancellations",
+        "durationMin": 20,
+        "price": "$30.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Beard Shave 🪒✂️🔥!!️",
+        "description": "Shaving design and beard outline with professional products that facilitate shaving to achieve the best possible result\n10% off does not apply Friday, Saturdays or Sundays\n$20 fee for cancellations",
+        "durationMin": 25,
+        "price": "$30.00",
+        "promoPrice": "$27.00",
+        "deposit": 0
+      },
+      {
+        "name": "Presidential Haircut",
+        "description": "This service includes shaved beard haircut or design plus use of lightening creams for facials facial masks and warm towels plus 5 min with eye massage lense\n10% off does not apply Friday, Saturdays or Sundays",
+        "durationMin": 60,
+        "price": "$85.00",
+        "promoPrice": "$76.50",
+        "deposit": 0
+      },
+      {
+        "name": "Facial 🔥!!️ $5 Off For Your Review !!️",
+        "description": "10% off does not apply Friday, Saturdays or Sundays",
+        "durationMin": 30,
+        "price": "$30.00",
+        "promoPrice": "$27.00",
+        "deposit": 0
+      },
+      {
+        "name": "House Call 🤳🔥!!️ $5 Off For Your Review !!️",
+        "description": null,
+        "durationMin": 75,
+        "price": "$150.00+",
+        "promoPrice": "$135.00+",
+        "deposit": 0
+      },
+      {
+        "name": "Straight Razor Shave",
+        "description": "10% off does not apply Friday, Saturdays or Sundays\n    $20 fee for cancellations",
+        "durationMin": 25,
+        "price": "$30.00",
+        "promoPrice": null,
+        "deposit": 0
+      },
+      {
+        "name": "Nose Or Ear Hair Removal",
+        "description": null,
+        "durationMin": 20,
+        "price": "$20.00+",
+        "promoPrice": null,
+        "deposit": 0
+      }
+    ]
+  }
+]
