@@ -305,7 +305,7 @@ function App() {
               ))}
             </div>
 
-            <div className="service-panel active" role="tabpanel">
+            <div className="service-panel active" role="tabpanel" key={activeCategory}>
               <ul className="service-list">
                 {activeServices.map((service) => (
                   <li className="service-item" key={service.name}>
